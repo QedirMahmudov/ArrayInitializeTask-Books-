@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\bin\Debug\net8.0\ArrayInitializeTask(Books).exe
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\bin\Debug\net8.0\ArrayInitializeTask(Books).deps.json
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\bin\Debug\net8.0\ArrayInitializeTask(Books).runtimeconfig.json
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\bin\Debug\net8.0\ArrayInitializeTask(Books).dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\bin\Debug\net8.0\ArrayInitializeTask(Books).pdb
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\refint\ArrayInitializeTask(Books).dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).pdb
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ref\ArrayInitializeTask(Books).dll
