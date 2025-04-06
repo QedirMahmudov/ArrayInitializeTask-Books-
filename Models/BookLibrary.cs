@@ -79,24 +79,41 @@
 
         public void BorrowBook(string name)
         {
+            bool bookFound = true;
             for (int i = 0; i < Books.Length; i++)
             {
-                if (Books[i].Name.ToLower() == name.ToLower())
+                if (Books[i].IsAvailable == true && Books[i].Name.ToLower() == name.ToLower())
                 {
                     Books[i].IsAvailable = false;
+                    bookFound = false;
+                    break;
                 }
+            }
+
+            if (bookFound)
+            {
+                Console.WriteLine("Bele kitab yoxdur!");
             }
         }
 
         public void ReturnBook(string name)
         {
+            bool hasBook = false;
             for (int i = 0; i < Books.Length; i++)
             {
-                if (Books[i].Name.ToLower() == name.ToLower())
+                if (Books[i].IsAvailable == false && Books[i].Name.ToLower() == name.ToLower())
                 {
                     Books[i].IsAvailable = true;
+                    hasBook = true;
+                    break;
                 }
             }
+
+            if (!hasBook)
+            {
+                Console.WriteLine("Bu kitab bizim deyil!");
+            }
+
         }
 
 

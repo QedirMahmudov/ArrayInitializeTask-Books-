@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\De
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).pdb
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ref\ArrayInitializeTask(Books).dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ArrayInitializeTask(Books)\obj\Debug\net8.0\ArrayInitializeTask(Books).sourcelink.json

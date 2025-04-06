@@ -9,6 +9,7 @@ namespace ArrayInitializeTask_Books_
             BookLibrary library = new BookLibrary();
 
             Book book = new Book("Kitab", "Deneme");
+            book.IsAvailable = true;
             Console.WriteLine("---------------------------------------");
             Book book2 = new Book("Kitab2", "Deneme");
             Console.WriteLine("---------------------------------------");
@@ -21,12 +22,15 @@ namespace ArrayInitializeTask_Books_
 
             //Console.WriteLine(book.IsAvailable);
             //library.BorrowBook("Kitab");
-            //Console.WriteLine(book.IsAvailable);
+            Console.WriteLine(book2.IsAvailable);
+            library.BorrowBook("Kitab2");
+            Console.WriteLine(book2.IsAvailable);
             //library.ReturnBook("Kitab");
             //Console.WriteLine(book.IsAvailable);
+            //Console.WriteLine(book.IsAvailable);
 
 
-            library.SearchByAuthor("Deneme");
+            //library.SearchByAuthor("Deneme");
 
 
             //library.ShowAll();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayInitializeTask(Books)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff75eaeea96839bca8e17c740f4954b22eb6b79")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayInitializeTask(Books)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayInitializeTask(Books)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
